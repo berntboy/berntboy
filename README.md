@@ -1,5 +1,5 @@
 ## Hey, I'm Alex.
-I'm a Full stack Developer @ FSA. I am enthuastic about new technologies and teaching others.  
+I'm a Full stack Developer @ FSA. I am enthuastic about new technologies, helping others, and fitness.  
 Outside the world of tech, I enjoy running marathons, playing tennis, hanging with friends, and learning new things.
 
 ### Get In Touch
