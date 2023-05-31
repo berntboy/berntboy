@@ -9,6 +9,6 @@ Outside the world of tech, I enjoy running marathons, playing tennis, hanging wi
 ### What I'm Learning
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 ### My Favorite Project Repos
-* <a href="https://github.com/Clean-Choice-Website/clean-choice">Clean Choice WI</a> - Cleaning Website for a real company
+* <a href="https://github.com/Clean-Choice-Website/clean-choice">Clean Choice WI</a> - Cleaning Website created for a real company
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=berntboy&count_private=true&show_icons=true&theme=dark)
