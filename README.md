@@ -11,5 +11,5 @@ Outside the world of tech, I enjoy running marathons, playing tennis, hanging wi
 ### My Favorite Project Repos
 * <a href="https://github.com/Clean-Choice-Website/clean-choice">Clean Choice WI</a> - Cleaning website created for a real company
 * <a href="https://github.com/2212-fsa-duck-hunt/duck-hunt-stockmarketanalysis">Duckhunt Stock Analysis</a> - Website to track your favorite stocks and cryptocurrency
-
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=berntboy&count_private=true&show_icons=true&theme=dark)
+<!-- 
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=berntboy&count_private=true&show_icons=true&theme=dark) -->
