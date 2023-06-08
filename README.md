@@ -1,5 +1,5 @@
 ## Hey, I'm Alex.
-I'm a Full stack Developer @ FSA. I am enthuastic about learning new technologies and creating websites that help others.  
+I'm a Fullstack Developer at Fullstack Academy. I am enthuastic about learning new technologies and creating websites that help others.  
 Outside the world of tech, I enjoy running marathons, playing tennis, hanging with friends, and learning new things.
 
 ### Get In Touch
