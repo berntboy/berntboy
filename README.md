@@ -9,7 +9,7 @@ Outside the world of tech, I enjoy running marathons, playing tennis, foucusing 
 ### What I'm Learning
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"> 
 ### My Favorite Project Repos
-* <a href="https://cleanchoicewi.netlify.app/">Clean Choice WI</a> - Modern website created for a real cleaning company
+* <a href="https://github.com/Clean-Choice-Website/clean-choice">Clean Choice WI</a> - Modern website created for a real cleaning company
 * <a href="https://github.com/2212-fsa-duck-hunt/duck-hunt-stockmarketanalysis">Duckhunt Stock Analysis</a> - Website to track your favorite stocks and cryptocurrency
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=berntboy&count_private=true&show_icons=true&theme=dark)
