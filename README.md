@@ -1,5 +1,5 @@
 ## Hey, I'm Alex.
-I'm a Fullstack Developer at Fullstack Academy. I am enthuastic about learning new technologies and creating websites that help others.  
+I'm a Fullstack Web Developer at Fullstack Academy. I am enthuastic about learning new technologies and creating websites that help others.  
 Outside the world of tech, I enjoy running marathons, playing tennis, foucusing on nutrtion and learning new things.
 
 ### Get In Touch
