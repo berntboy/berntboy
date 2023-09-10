@@ -8,5 +8,5 @@ I'm a Fullstack Web Developer who graduated from Fullstack Academy. I am enthuas
 ### What I'm Learning
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 ### My Favorite Project Repos
-* <a href="https://github.com/Clean-Choice-Website/clean-choice">Clean Choice WI</a> - Modern website created for a real cleaning company
+* <a href="https://github.com/Clean-Choice-Website/clean-choice">Clean Choice WI</a> - Modern website created for a real cleaning company to enhance user engagement
 * <a href="https://github.com/2212-fsa-duck-hunt/duck-hunt-stockmarketanalysis">Duckhunt Stock Analysis</a> - Website to track your favorite stocks and cryptocurrency
