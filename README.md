@@ -10,3 +10,4 @@ I'm a Fullstack Web Developer who graduated from Fullstack Academy. I am enthuas
 ### My Favorite Project Repos
 * <a href="https://github.com/Clean-Choice-Website/clean-choice">Clean Choice WI</a> - Modern website created for a real cleaning company to enhance user engagement
 * <a href="https://github.com/2212-fsa-duck-hunt/duck-hunt-stockmarketanalysis">Duckhunt Stock Analysis</a> - Website to track your favorite stocks and cryptocurrency
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=berntboy&count_private=true&show_icons=true&theme=dark)
